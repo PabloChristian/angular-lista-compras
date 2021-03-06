@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "imageUrl": "https://saborizatti.com.br/wp-content/uploads/2020/12/banana-nanica.png",
+      "quantidade": 1
+    },
+    {
+      "id": 2,
+      "nome": "Maça",
+      "imageUrl": "https://superprix.vteximg.com.br/arquivos/ids/175207-600-600/Maca-Argentina--1-unidade-aprox.-200g-.png",
+      "quantidade": 3
+    },
+    {
+      "id": 3,
+      "nome": "Melancia",
+      "imageUrl": "https://hiperideal.vteximg.com.br/arquivos/ids/167698-1000-1000/51470.jpg?v=636615816266230000",
+      "quantidade": 1
+    }
+  ]
+}

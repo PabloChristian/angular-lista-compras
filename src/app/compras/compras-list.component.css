@@ -1,0 +1,44 @@
+thead {
+  background-color: rgb(95, 95, 233);
+}
+
+.container{
+  margin-top: 20px;
+  width:100%;
+}
+
+.btn.btn-danger{
+  margin-left:10px;
+  width:90px;
+}
+
+.btn.btn-primary{
+  width:90px;
+}
+
+.buttondemoBasicUsage section {
+  background: #f7f7f7;
+  border-radius: 3px;
+  text-align: center;
+  margin: 1em;
+  position: relative !important;
+  padding-bottom: 10px; }
+
+.buttondemoBasicUsage md-content {
+  margin-right: 7px; }
+
+.buttondemoBasicUsage section .md-button {
+  margin-top: 16px;
+  margin-bottom: 16px; }
+
+.buttondemoBasicUsage .label {
+  position: absolute;
+  bottom: 5px;
+  left: 7px;
+  font-size: 14px;
+  opacity: 0.54; }
+
+input[type="number"] {
+    width:60px;
+    height:30px;
+}
