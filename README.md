@@ -1,11 +1,32 @@
-# Lista de Compras
+## Lista de Compras
 
-Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 11.2.2.
+Esse projeto foi criado com Angular, com o objetivo de ser uma listagem de compras.
+
+## Imagens
+
+- Página Principal
+<img src="docs/prints/print1.png">
+
+- Listagem de Produtos
+<img src="docs/prints/print2.png">
+
+- Pesquisa de Produto
+<img src="docs/prints/print3.png">
+
+## Tecnologias
+Angular
+Angular Material
+Routing
+HttpClient
+RxJS
+BootStrap
+Json Server
 
 ## Execução - Servidor Web
 
+Digite `npm  install` para baixar as dependências necessárias.
 Digite `ng serve`. Acesse a página `http://localhost:4200/`.
 
-# Execução - Servidor JSON
+## Execução - Servidor JSON
 
 Digite `json-server --watch db.json -d` para executar o servidor json.
