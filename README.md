@@ -19,6 +19,9 @@ Angular Material
 Routing
 HttpClient
 RxJS
+TypeScript
+HTML
+CSS
 BootStrap
 Json Server
 
