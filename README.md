@@ -2,17 +2,6 @@
 
 Esse projeto foi criado com Angular, com o objetivo de ser uma listagem de compras.
 
-## Imagens
-
-- Página Principal
-<img src="docs/prints/print1.png">
-
-- Listagem de Produtos
-<img src="docs/prints/print2.png">
-
-- Pesquisa de Produto
-<img src="docs/prints/print3.png">
-
 ## Tecnologias
 Angular
 Angular Material
@@ -24,6 +13,17 @@ HTML
 CSS
 BootStrap
 Json Server
+
+## Imagens
+
+- Página Principal
+<img src="docs/prints/print1.png">
+
+- Listagem de Produtos
+<img src="docs/prints/print2.png">
+
+- Pesquisa de Produto
+<img src="docs/prints/print3.png">
 
 ## Execução - Servidor Web
 
